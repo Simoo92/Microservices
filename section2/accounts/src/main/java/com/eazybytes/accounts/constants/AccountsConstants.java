@@ -1,6 +1,6 @@
 package com.eazybytes.accounts.constants;
 
-public class AccountsCostants {
+public class AccountsConstants {
 
     private AccountsConstants() {
         // restrict instantiation
